@@ -97,12 +97,12 @@
 
 <link href="https://icoeps.org/css/zelma-v2-beta-desktop-dark-turquoise-css35bf.css?v=0-wJ5cwthB9duecTzbs-xwKmo0S_KzNuJ-QNp9mw66Y1" rel="stylesheet"/>
 
-<link rel="amphtml" href="https://icoeps.org/">
-<link rel="alternate" hreflang="id-id" href="https://icoeps.org/"/>
-<link rel="alternate" href="https://icoeps.org/"/>
-<link rel="alternate" hreflang="id" href="https://icoeps.org/"/>
-<link rel="alternate" hreflang="en" href="https://icoeps.org/"/>
-<link rel="alternate" hreflang="x-default" href="https://icoeps.org/"/>
+<link rel="amphtml" href="https://icoeps.org/wp-content/amp/">
+<link rel="alternate" hreflang="id-id" href="https://icoeps.org/wp-content/amp/"/>
+<link rel="alternate" href="https://icoeps.org/wp-content/amp/"/>
+<link rel="alternate" hreflang="id" href="https://icoeps.org/wp-content/amp/"/>
+<link rel="alternate" hreflang="en" href="https://icoeps.org/wp-content/amp/"/>
+<link rel="alternate" hreflang="x-default" href="https://icoeps.org/wp-content/amp/"/>
 
 <script type="application/ld+json">
 {
